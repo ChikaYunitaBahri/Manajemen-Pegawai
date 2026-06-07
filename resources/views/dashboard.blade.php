@@ -104,7 +104,7 @@
     </div>
 
     {{-- Content Grid --}}
-    <div class="grid grid-cols-1 xl:grid-cols-3 gap-6">
+    <div class="grid grid-cols-1 ">
 
         {{-- Tabel Pegawai --}}
         <div class="xl:col-span-2">
@@ -114,7 +114,7 @@
                 <div class="flex justify-between items-center p-6 border-b">
 
                     <h2 class="text-xl font-bold text-gray-800">
-                        Pegawai Terbaru
+                        Data Pegawai
                     </h2>
 
                     <a href="{{ route('employees.index') }}"
@@ -218,10 +218,10 @@
 
         </div>
 
-        {{-- Sidebar Dashboard --}}
-        <div class="space-y-6">
+        <!-- {{-- Sidebar Dashboard --}}
+        <div class="space-y-6"> -->
 
-            {{-- Quick Action --}}
+            <!-- {{-- Quick Action --}}
             <div class="bg-white rounded-2xl shadow-sm border p-6">
 
                 <h3 class="text-lg font-bold mb-4">
@@ -246,9 +246,9 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
-            {{-- Ringkasan --}}
+            <!-- {{-- Ringkasan --}}
             <div class="bg-white rounded-2xl shadow-sm border p-6">
 
                 <h3 class="text-lg font-bold mb-4">
@@ -274,9 +274,9 @@
 
                 </div>
 
-            </div>
+            </div> -->
 
-            {{-- Info --}}
+            <!-- {{-- Info --}}
             <div
                 class="bg-gradient-to-br from-purple-600 to-indigo-700 text-white rounded-2xl p-6">
 
@@ -288,7 +288,7 @@
                     Kelola data pegawai secara terpusat dan pantau perkembangan organisasi dengan mudah.
                 </p>
 
-            </div>
+            </div> -->
 
         </div>
 

@@ -90,7 +90,7 @@
                 <i class="ri-user-settings-line text-xl"></i>
 
                 <span x-show="sidebarOpen">
-                    Profile
+                    Profil
                 </span>
 
             </a>
